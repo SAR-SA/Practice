@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: #eee;
+    text-align: center;
+    background: red;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+h3 {
+    font-style: italic;
+    color: Blue;
+
+}
+
+.margin {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.aside {
+    float: right;
+    height: 200px;
+    margin-top: 10px;
+}
